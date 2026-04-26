@@ -31,4 +31,7 @@ This project was created to improve frontend development skills and understand A
 * Dark mode support
 * Country flags for currencies
 * Offline conversion support for major currencies
+<img width="1881" height="869" alt="image" src="https://github.com/user-attachments/assets/f372c621-557d-4512-bbd1-0618c8afdad9" />
+<img width="1888" height="864" alt="image" src="https://github.com/user-attachments/assets/41ec4d3c-25b6-4435-89fb-046d1779d31b" />
+
 
